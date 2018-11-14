@@ -1,0 +1,347 @@
+{
+  "name": "Fake News",
+  "questions": [
+    {
+      "id": 1,
+      "name": "El PP se lía con las ayudas a la caridad y pide menos de las presupuestadas por el Consell",
+      "message": "Encara que sone impossible, els populars van presentar una esmena als Pressupostos de la Generalitat per a 2018 en la qual reclamaven 270.000 euros per a Cáritas, quan el Consell ha pressupostat 479.000 euros per aquesta entitat.",
+      "options": [
+        {
+          "name": "Vertader",
+          "message": "Per desgràcia, així va ser...",
+          "points": 1,
+          "type": "true",
+          "gif": "https://media3.giphy.com/media/1332tmUf9Myo4o/giphy.gif"
+        },
+        {
+          "name": "Fals",
+          "message": "Per desgràcia, així va ser...",
+          "points": 0,
+          "type": "false",
+          "gif": "https://media3.giphy.com/media/aWPGuTlDqq2yc/giphy.gif"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "La conselleria de Educació cierra aulas en los centros concertados.",
+      "message": "La Conselleria NO tanca aules ni unitats de la concertada, estableix concerts allà on no arriba la pública. Els pares tenen llibertat per a triar el centre d'estudis dels seus fills.",
+      "options": [
+        {
+          "name": "Cert!",
+          "message": "Fals!",
+          "points": 0,
+          "type": "true",
+          "gif": "https://media.giphy.com/media/l3vR71pwNTO4dJh3q/giphy.gif"
+        },
+        {
+          "name": "Quina trola!",
+          "message": "Correcte!",
+          "points": 1,
+          "type": "false",
+          "gif": "https://media3.giphy.com/media/l3vR5UgInxQW8wK6k/giphy.gif"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Un senador de Compromís pregunta al Gobierno por un 'apocalipsis zombi'",
+      "message": "El senador Carles Mulet va plantejar aquesta pregunta al Senat per tal de visibilitzar la manca de seriositat en moltes de les respostes que el govern de Rajoy dóna a les preguntes parlamentàries dels grups de l'oposició a la cambra alta.",
+      "options": [
+        {
+          "name": "M'ho crec",
+          "message": "Com sona",
+          "points": 1,
+          "type": "true",
+          "gif": "https://media1.giphy.com/media/jqTJ9H0zE9Cta/giphy.gif"
+        },
+        {
+          "name": "Impossible!",
+          "message": "Vaja que sí",
+          "points": 0,
+          "type": "false",
+          "gif": "https://media.giphy.com/media/EIndPd19dL1sY/giphy.gif"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Unanimidad en las Corts en favor de la Ley “Trans”",
+      "message": "El PP ha sigut l'únic partit de les Corts Valencianes que no va donar suport a la Llei integral de reconeixement del dret a la identitat i l'expressió de gènere.",
+      "options": [
+        {
+          "name": "Clarament",
+          "message": "No tan clarament",
+          "points": 0,
+          "type": "true",
+          "gif": "https://media.giphy.com/media/3og0IBdxsxb9zVNedW/giphy.gif"
+        },
+        {
+          "name": "No és possible",
+          "message": "Efectivament",
+          "points": 1,
+          "type": "false",
+          "gif": "https://media.giphy.com/media/3og0ILC3R1WsU2FbJm/giphy.gif"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Los carriles bicis aumentan los atascos y disparan la contaminación en el centro València",
+      "message": "Gràcies a la nova política de mobilitat que fomenta la peatonalització de carrers, el transport públic i l'ús de la bicicleta, els nivells de contaminació de la ciutat de València s'han reduït",
+      "options": [
+        {
+          "name": "Segur",
+          "message": "Fake!",
+          "points": 0,
+          "type": "true",
+          "gif": "https://media.giphy.com/media/26gs6vEzlpaxuYgso/giphy.gif"
+        },
+        {
+          "name": "Vaja trola!",
+          "message": "I tant trola...",
+          "points": 1,
+          "type": "false",
+          "gif": "https://media.giphy.com/media/xT1R9ZFren71hXtu8M/giphy.gif"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Todos los partidos firmantes de la Declaración Institucional por una Financiación Justa acuden a la manifestación en su defensa",
+      "message": "Malgrat que el PP va votar a favor a les Corts de reclamar al govern central un Finançament Just per al País Valencià, no va acudir amb la resta de partits, sindicats, patronal i entitats socials a la manifestació celebrada el 18 de novembre per a exigir-ho. Biporalitat?",
+      "options": [
+        {
+          "name": "Vertader",
+          "message": "Ja voldriem...",
+          "points": 0,
+          "type": "true",
+          "gif": "https://media.giphy.com/media/g52Y39pUaT21i/giphy.gif"
+        },
+        {
+          "name": "Tant de bo!",
+          "message": "Ja voldriem...",
+          "points": 1,
+          "type": "false",
+          "gif": "https://media.giphy.com/media/geYwtodB9AiI0/giphy.gif"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "La Plaza de la Igualdad de Alicante pasa a llamarse Plaza de la División Azul",
+      "message": "El PP va aconseguir que tornaren el noms dels carrers franquistes a la ciutat d'Alacant.",
+      "options": [
+        {
+          "name": "Vertader",
+          "message": "Per desgràcia, sí",
+          "points": 1,
+          "type": "true",
+          "gif": "https://media.giphy.com/media/Pd8Bf06Sas4yQ/giphy.gif"
+        },
+        {
+          "name": "Fals",
+          "message": "Per desgràcia, és vertader",
+          "points": 0,
+          "type": "false",
+          "gif": "https://media.giphy.com/media/26BoEBp33RFNV77Ne/giphy.gif"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "València multará a los balcones con banderas al equiparalas con ropa tendida",
+      "message": "L'Ajuntament de València no multarà ningú per penjar banderes als balcons. Es tracta d'un bulo que l'extrema dreta ha escampat per les xarxes socials.",
+      "options": [
+        {
+          "name": "Real",
+          "message": "Fake news!",
+          "points": 0,
+          "type": "true",
+          "gif": "https://media.giphy.com/media/l0MYQLUe1kuJUUSHu/giphy.gif"
+        },
+        {
+          "name": "Fake!",
+          "message": "Fake! Però... fake!",
+          "points": 1,
+          "type": "false",
+          "gif": "https://media.giphy.com/media/l0MYvV7rbVYm2e1Y4/giphy.gif"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Joan Ribó asegura que en València 'hay hombres con vulva y mujeres con pene'",
+      "message": "Sí, així ho va declarar l'alcalde de València en defensa de la diversitat i en resposta a la campanya trànsfoba de l'associació “Hazte Oir”.",
+      "options": [
+        {
+          "name": "Vertader",
+          "message": "Clar que sí!",
+          "points": 1,
+          "type": "true",
+          "gif": "https://media.giphy.com/media/l41YwLuanve0L4XOE/giphy.gif"
+        },
+        {
+          "name": "Fals",
+          "message": "Clar que ho va dir!",
+          "points": 0,
+          "type": "false",
+          "gif": "https://media.giphy.com/media/l41YktuUJjzzOshri/giphy.gif"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Un grupo de fans de la película Scream celebran Halloween a las puertas de la casa de Mónica Oltra",
+      "message": "Malauradament, les persones amb màscares de Scream que es van concentrar a les portes de la casa de Mónica Oltra no eren seguidors de la popular pel·lícula de terror, sinó un grup d'extrema dreta que aprofitava la nit per assejtar la Vicepresidenta en el seu domicili.",
+      "options": [
+        {
+          "name": "Això va passar",
+          "message": "No, va ser molt pitjor...",
+          "points": 0,
+          "type": "true",
+          "gif": "https://media.giphy.com/media/3ohrygmETrDYxWlytq/giphy.gif"
+        },
+        {
+          "name": "Impossible!",
+          "message": "Va ser molt pitjor...",
+          "points": 1,
+          "type": "false",
+          "gif": "https://media.giphy.com/media/3ohryeL0lRh5tR1XvG/giphy.gif"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Bonig define como “privilegio franquista” la Ley que ella misma aprobó",
+      "message": "Encara que semble una broma, la realitat és que la notícia és autèntica. La portaveu del PP Valencià va catalogar de “franquista” la llei de Participació Institucional aprovada amb els vots del PP en l'any 2015. ",
+      "options": [
+        {
+          "name": "Vertader",
+          "message": "Correcte!",
+          "points": 1,
+          "type": "true",
+          "gif": "https://media.giphy.com/media/3o6gEaWjgBft7euDPW/giphy.gif"
+        },
+        {
+          "name": "No pot ser",
+          "message": "Sí pot ser...",
+          "points": 0,
+          "type": "false",
+          "gif": "https://media.giphy.com/media/wofftnAdDtx4s/giphy.gif"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "El juez falla embargar al PP para pagar al abogado de Nomdedéu",
+      "message": "Sembla que el “simpa” del PP a Feria València no va ser l'únic. Els populars encara no han abonat les costes del judici que van perdre contra Enric Nomdedéu en maig, i el jutjat de Primera Instància número 5 de Castelló ha donat ordre d'embargament dels comptes de la seua agrupació local de Castelló.",
+      "options": [
+        {
+          "name": "Vertader",
+          "message": "Vertader",
+          "points": 1,
+          "type": "true",
+          "gif": "https://media.giphy.com/media/3ohzdKVE5AFMNLQ2SQ/giphy.gif"
+        },
+        {
+          "name": "Mentida",
+          "message": "Nope...",
+          "points": 0,
+          "type": "false",
+          "gif": "https://media.giphy.com/media/l4FGvkHhFIDQ7woNi/giphy.gif"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Ribó sustituye a los Reyes Magos de Oriente por la Reinas Magas Republicanas",
+      "message": "No, Ribó no ha substituït els Reis d'Orient, sinó que ha fet que València puga comptar amb dues meravelloses cavalcades: una el dia 5 de gener, on els xiquets donen la benvinguda als Reis d'Orient, Gaspar, Melcior i Baltasar, i una altra per a celebrar la gran 'Festa de la Infància' de la mà de les reines magues Igualtat, Llibertat i Fraternitat.",
+      "options": [
+        {
+          "name": "Vertader",
+          "message": "Fake!",
+          "points": 0,
+          "type": "true",
+          "gif": "https://media.giphy.com/media/23BST5FQOc8k8/giphy.gif"
+        },
+        {
+          "name": "Fals",
+          "message": "Exacte...",
+          "points": 1,
+          "type": "false",
+          "gif": "https://media.giphy.com/media/TEFplLVRDMWBi/giphy.gif"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Fomento sube las inversiones en infraestructuras en la Comunidad Valenciana",
+      "message": "Malgrat les promeses del ministre de Foment, Íñigo de la Serna, i el president Mariano Rajoy, el govern central han reduït les inversions en infraestructures més d'un 24% en tot el territori valencià.",
+      "options": [
+        {
+          "name": "Vertader",
+          "message": "Tant de bo!",
+          "points": 0,
+          "type": "true",
+          "gif": "https://media3.giphy.com/media/hPPx8yk3Bmqys/giphy.gif"
+        },
+        {
+          "name": "Sí home...",
+          "message": "Tant de bo!",
+          "points": 1,
+          "type": "false",
+          "gif": "https://media0.giphy.com/media/9ayjEAMPOpbMY/giphy.gif"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "badge": "BONUS ROUND (esta és fàcil)",
+      "name": "Compromís quita la bandera de España del puerto de València",
+      "message": "Es tracta d'un bulo que la dreta va fer circular per les xarxes socials l'endemà de perdre les eleccions de 2015. La bandera d'Espanya de la Marina Reial no ha estat mai retirada per Compromís; entre altres coses, perquè és competència del Govern central.",
+      "options": [
+        {
+          "name": "Vertader",
+          "message": "What?",
+          "points": 0,
+          "type": "true",
+          "gif": "https://media2.giphy.com/media/eInTYFaIQ8Bc4/giphy.gif"
+        },
+        {
+          "name": "Fake!",
+          "message": "Fake! Però... fake!",
+          "points": 1,
+          "type": "false",
+          "gif": "https://media.giphy.com/media/UkhHIZ37IDRGo/giphy.gif"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "minPoints": 0,
+      "maxPoints": 7,
+      "message": "No et cregues tot el que lliges per Internet. Malauradament, la xarxa està plena de notícies falses; per això, et recomanem sempre llegir-les en més d'un mitjà de comunicació per a poder contrastar-les i que no et donen gat per llebre.",
+      "gif": "https://media.giphy.com/media/P0RWkdsRpK7ss/giphy.gif"
+    },
+    {
+      "minPoints": 8,
+      "maxPoints": 12,
+      "message": "Sens dubte, ets una persona que està al dia de la informació; però, a vegades, baixes la guàrdia i et colen alguna “fake news”. Vés més amb compte ;)",
+      "gif": "https://media3.giphy.com/media/l0IyjvPvBs0oYEwZW/giphy.gif"
+    },
+    {
+      "minPoints": 13,
+      "maxPoints": 14,
+      "message": "Enhorabona, ets un pro detectant notícies falses!",
+      "gif": "https://media.giphy.com/media/26DOoDwdNGKAg6UKI/giphy.gif"
+    },
+    {
+      "minPoints": 15,
+      "maxPoints": 15,
+      "message": "Wow! Ets un pro detectant notícies falses, no te'n colen ni una!",
+      "gif": "https://media.giphy.com/media/YYD3fLEOdcOv6/giphy.gif"
+    }
+  ]
+}
