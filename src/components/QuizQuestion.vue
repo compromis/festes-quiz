@@ -180,6 +180,7 @@ export default {
 
   &-gif {
     max-width: 100%;
+    max-height: 300px;
   }
 
   h4 {

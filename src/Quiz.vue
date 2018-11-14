@@ -47,11 +47,12 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: $text-color;
-  background-image: url(./assets/background.jpg);
+  background-image: url(https://www.ecestaticos.com/imagestatic/clipping/2ad/8ed/2ad8ed8889aec63d64985eb353edd897/horarios-de-las-fallas-mascletas-cremas-nit-del-foc-fuegos-artificiales-y-plantas.jpg?mtime=1488533599);
   background-color: $background;
-  background-size: 100%;
+  background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
+  background-position: center;
   font-size: 100%;
 }
 

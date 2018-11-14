@@ -1,22 +1,24 @@
 <template>
-  <section class="intro container">
-    <p><span class="intro-flair">QUIZ</span></p>
-    <div class="columns intro-icons">
-      <div class="column intro-icon-true is-hidden-mobile">
-        <True />
+  <section class="intro">
+    <div class="container">
+      <p><span class="intro-flair">QUIZ</span></p>
+      <div class="columns intro-icons">
+        <div class="column intro-icon-true is-hidden-mobile">
+          <True />
+        </div>
+        <div class="column">
+          <Newspaper />
+        </div>
+        <div class="column intro-icon-false is-hidden-mobile">
+          <False />
+        </div>
       </div>
-      <div class="column">
-        <Newspaper />
-      </div>
-      <div class="column intro-icon-false is-hidden-mobile">
-        <False />
-      </div>
+      <h1 class="intro-heading">FAKE NEWS</h1>
+      <h2 class="intro-subheading">N'ets inmune?</h2>
+      <p class="intro-description">Ets dels qui pensen que només els “cunyaos” són carnassa de fake news i que estàs prou informat per a diferenciar entre una notícia falsa i una que no ho és? Posa't a prova en el següent quiz!</p>
+      <p class="intro-note"><strong>Avís:</strong> Encara que ho semble, estes notícies no van ser publicades el Dia dels Innocents</p>
+      <p class="intro-action"><a href="#q1" v-scroll-to="'#q1'"><span class="emoji">📝</span> Comença</a></p>
     </div>
-    <h1 class="intro-heading">FAKE NEWS</h1>
-    <h2 class="intro-subheading">N'ets inmune?</h2>
-    <p class="intro-description">Ets dels qui pensen que només els “cunyaos” són carnassa de fake news i que estàs prou informat per a diferenciar entre una notícia falsa i una que no ho és? Posa't a prova en el següent quiz!</p>
-    <p class="intro-note"><strong>Avís:</strong> Encara que ho semble, estes notícies no van ser publicades el Dia dels Innocents</p>
-    <p class="intro-action"><a href="#q1" v-scroll-to="'#q1'"><span class="emoji">📝</span> Comença</a></p>
   </section>
 </template>
 
@@ -42,6 +44,8 @@ export default {
 .intro {
   padding: 2.5rem;
   text-align: center;
+  background: $background;
+  background: linear-gradient(rgba($background, .75) 0%, rgba($background, 0) 100%);;
 }
 
 .intro-heading {
@@ -59,6 +63,7 @@ export default {
   letter-spacing: -1px;
   margin-top: 3rem;
   line-height: 1;
+  text-shadow: 0 0 10px $background;
 }
 
 .intro-flair {
@@ -88,6 +93,7 @@ export default {
 .intro-description {
   max-width: 700px;
   margin: 1rem auto;
+  text-shadow: 0 0 10px $background;
 }
 
 .intro .intro-note {
