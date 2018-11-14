@@ -14,9 +14,9 @@
         </div>
       </div>
       <h1 class="intro-heading">FAKE NEWS</h1>
-      <h2 class="intro-subheading">N'ets inmune?</h2>
+      <span class="intro-subheading-edition">Edició</span>
+      <h2 class="intro-subheading"><strong>Festes de València 🎉</strong></h2>
       <p class="intro-description">Ets dels qui pensen que només els “cunyaos” són carnassa de fake news i que estàs prou informat per a diferenciar entre una notícia falsa i una que no ho és? Posa't a prova en el següent quiz!</p>
-      <p class="intro-note"><strong>Avís:</strong> Encara que ho semble, estes notícies no van ser publicades el Dia dels Innocents</p>
       <p class="intro-action"><a href="#q1" v-scroll-to="'#q1'"><span class="emoji">📝</span> Comença</a></p>
     </div>
   </section>
@@ -55,15 +55,35 @@ export default {
   text-shadow: 10px 10px 0 $secondary-color;
   transform: skew(0deg, -10deg);
   line-height: 1;
-  margin: 2rem 0;
+  margin: 2rem 0 3rem 0;
 }
 
 .intro-subheading {
-  font-size: 2rem;
-  letter-spacing: -1px;
-  margin-top: 3rem;
+  text-align: center;
   line-height: 1;
-  text-shadow: 0 0 10px $background;
+  margin-top: .75rem;
+  margin-bottom: 3rem;
+
+  strong {
+    background: #fff;
+    padding: .5rem .75rem;
+    border-radius: .5rem;
+    box-shadow: 0 0 20px rgba($background, .5);
+    color: $secondary-color;
+    white-space: nowrap;
+    font-size: 1.75rem;
+    letter-spacing: -1px;
+  }
+
+  &-edition {
+    display: inline-block;
+    background: $secondary-color;
+    color: #fff;
+    text-transform: uppercase;
+    padding: .25rem 2rem;
+    border-radius: .5rem .5rem 0 0;
+    font-weight: bold;
+  }
 }
 
 .intro-flair {
@@ -136,7 +156,9 @@ export default {
     }
 
     &-subheading {
-      font-size: 2.5rem;
+      strong {
+        font-size: 2.5rem;
+      }
     }
 
     p {
