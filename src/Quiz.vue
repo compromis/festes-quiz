@@ -56,6 +56,10 @@ body {
   font-size: 100%;
 }
 
+body {
+  padding-top: 50px;
+}
+
 @font-face {
     font-family: 'Compromis';
     src: url('https://compromis.net/wp-content/themes/Compromis/fonts/akkurat-webfont.eot?2');
