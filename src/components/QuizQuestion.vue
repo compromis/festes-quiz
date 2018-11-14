@@ -2,7 +2,7 @@
   <div :class="{ 'question-outer-wrapper': true, 'question-hidden': !visible }" :id="'q' + question.id">
     <div class="question-wrapper">
       <div class="question">
-        <div class="question-image" :style="'background-image: url(static/img/questions/' + question.id + '.jpg)'"></div>
+        <div class="question-image" :style="'background-image: url(questions/' + question.id + '.jpg)'"></div>
         <div class="question-badge" v-if="question.badge"><span>{{ question.badge }}</span></div>
         <h3>{{ question.name }}</h3>
 
@@ -185,10 +185,12 @@ export default {
   h4 {
     font-weight: bold;
     font-size: 1.75rem;
+    line-height: 1.25;
+    margin-bottom: .75rem;
   }
 
   p {
-    font-size: 1.25rem;
+    font-size: 1.1rem;
     line-height: 1.25;
   }
 }
