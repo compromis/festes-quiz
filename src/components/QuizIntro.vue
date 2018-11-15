@@ -16,7 +16,7 @@
       <h1 class="intro-heading">FAKE NEWS</h1>
       <span class="intro-subheading-edition">Edició</span>
       <h2 class="intro-subheading"><strong>Festes de València 🎉</strong></h2>
-      <p class="intro-description">Ets dels qui pensen que només els “cunyaos” són carnassa de fake news i que estàs prou informat per a diferenciar entre una notícia falsa i una que no ho és? Posa't a prova en el següent quiz!</p>
+      <p class="intro-description">Tens clara la gestió de la Regidoria de Cultura Festiva de l'Ajuntament de València o t'has deixat emportar per la voràgine de notícies absurdes sobre diverses qüestions? Possa't a prova i comprova tot el que s'ha gestionat en la darrera legislatura.</p>
       <p class="intro-action"><a href="#q1" v-scroll-to="'#q1'"><span class="emoji">📝</span> Comença</a></p>
     </div>
   </section>
