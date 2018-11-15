@@ -300,26 +300,26 @@
     {
       "minPoints": 0,
       "maxPoints": 7,
-      "message": "No et cregues tot el que lliges per Internet. Malauradament, la xarxa està plena de notícies falses; per això, et recomanem sempre llegir-les en més d'un mitjà de comunicació per a poder contrastar-les i que no et donen gat per llebre.",
-      "gif": "https://media.giphy.com/media/P0RWkdsRpK7ss/giphy.gif"
+      "message": "Has de mirar de canviar les teues fonts d'informació, hi ha gent interessada en intoxicar i desacreditar amb mentides, no caigues en el parany!",
+      "gif": "https://media.giphy.com/media/26n6ziTEeDDbowBkQ/giphy.gif"
     },
     {
       "minPoints": 8,
       "maxPoints": 12,
-      "message": "Sens dubte, ets una persona que està al dia de la informació; però, a vegades, baixes la guàrdia i et colen alguna “fake news”. Vés més amb compte ;)",
-      "gif": "https://media3.giphy.com/media/l0IyjvPvBs0oYEwZW/giphy.gif"
+      "message": "No està mal però cal millorar una miqueta. T'animem a que participes més activament de les activats de la Regidoria.",
+      "gif": "https://media.giphy.com/media/fe3YzuEUsyLM9ZtCnZ/giphy.gif"
     },
     {
       "minPoints": 13,
       "maxPoints": 14,
-      "message": "Enhorabona, ets un pro detectant notícies falses!",
-      "gif": "https://media.giphy.com/media/26DOoDwdNGKAg6UKI/giphy.gif"
+      "message": "Molt bé! Es nota que eres una persona implicada en la festa de la ciutat i que no confies en totes les informacions que circulen per les xarxes. Continua així!",
+      "gif": "https://media.giphy.com/media/26FL2NwYBOq3Z6C6Q/giphy.gif"
     },
     {
       "minPoints": 15,
       "maxPoints": 15,
-      "message": "Wow! Ets un pro detectant notícies falses, no te'n colen ni una!",
-      "gif": "https://media.giphy.com/media/YYD3fLEOdcOv6/giphy.gif"
+      "message": "La perfecció existeix i tu l'has aconsseguida. Eres una persona experta en el món de la Cultura Festiva i agraïm el teu interés per la festa de la nostra ciutat",
+      "gif": "https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif"
     }
   ]
 }
