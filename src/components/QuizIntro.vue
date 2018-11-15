@@ -7,15 +7,14 @@
           <True />
         </div>
         <div class="column">
-          <Newspaper />
+          <span style="font-size: 6rem">🎉</span>
         </div>
         <div class="column intro-icon-false is-hidden-mobile">
           <False />
         </div>
       </div>
-      <h1 class="intro-heading">FAKE NEWS</h1>
-      <span class="intro-subheading-edition">Edició</span>
-      <h2 class="intro-subheading"><strong>Festes de València 🎉</strong></h2>
+      <h1 class="intro-heading">FESTES VLC<br />FACTS</h1>
+      <h2 class="intro-subheading"><em>Troletes</em> o realitat?</h2>
       <p class="intro-description">Ets dels qui pensen que només els “cunyaos” són carnassa de fake news i que estàs prou informat per a diferenciar entre una notícia falsa i una que no ho és? Posa't a prova en el següent quiz!</p>
       <p class="intro-action"><a href="#q1" v-scroll-to="'#q1'"><span class="emoji">📝</span> Comença</a></p>
     </div>
@@ -59,31 +58,11 @@ export default {
 }
 
 .intro-subheading {
-  text-align: center;
   line-height: 1;
-  margin-top: .75rem;
-  margin-bottom: 3rem;
-
-  strong {
-    background: #fff;
-    padding: .5rem .75rem;
-    border-radius: .5rem;
-    box-shadow: 0 0 20px rgba($background, .5);
-    color: $secondary-color;
-    white-space: nowrap;
-    font-size: 1.75rem;
-    letter-spacing: -1px;
-  }
-
-  &-edition {
-    display: inline-block;
-    background: $secondary-color;
-    color: #fff;
-    text-transform: uppercase;
-    padding: .25rem 2rem;
-    border-radius: .5rem .5rem 0 0;
-    font-weight: bold;
-  }
+  margin: 1rem 0;
+  font-size: 1.75rem;
+  letter-spacing: -1px;
+  text-shadow: 0 0 10px $background;
 }
 
 .intro-flair {
@@ -156,9 +135,7 @@ export default {
     }
 
     &-subheading {
-      strong {
-        font-size: 2.5rem;
-      }
+      font-size: 2.5rem;
     }
 
     p {
