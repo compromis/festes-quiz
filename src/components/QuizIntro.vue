@@ -2,18 +2,7 @@
   <section class="intro">
     <div class="container">
       <p><span class="intro-flair">QUIZ</span></p>
-      <div class="columns intro-icons">
-        <div class="column intro-icon-true is-hidden-mobile">
-          <True />
-        </div>
-        <div class="column">
-          <span style="font-size: 6rem">🎉</span>
-        </div>
-        <div class="column intro-icon-false is-hidden-mobile">
-          <False />
-        </div>
-      </div>
-      <h1 class="intro-heading">FESTES VLC<br />FACTS</h1>
+      <h1 class="intro-heading"><span style="white-space: nowrap">FESTES VLC</span> FACTS 🎉</h1>
       <h2 class="intro-subheading"><em>Troletes</em> o realitat?</h2>
       <p class="intro-description">Tens clara la gestió de la Regidoria de Cultura Festiva de l'Ajuntament de València o t'has deixat emportar per la voràgine de notícies absurdes sobre diverses qüestions? Possa't a prova i comprova tot el que s'ha gestionat en la darrera legislatura.</p>
       <p class="intro-action"><a href="#q1" v-scroll-to="'#q1'"><span class="emoji">📝</span> Comença</a></p>
@@ -30,7 +19,6 @@ export default {
   name: 'quiz-intro',
 
   components: {
-    Newspaper,
     True,
     False
   }
@@ -41,7 +29,7 @@ export default {
 @import '../variables';
 
 .intro {
-  padding: 2.5rem;
+  padding: 2.5rem 1.5rem;
   text-align: center;
   background: $background;
   background: linear-gradient(rgba($background, .75) 0%, rgba($background, 0) 100%);;
@@ -49,12 +37,13 @@ export default {
 
 .intro-heading {
   font-family: $font-intro;
-  font-size: 5rem;
+  font-size: 17vw;
   position: relative;
   text-shadow: 10px 10px 0 $secondary-color;
   transform: skew(0deg, -10deg);
   line-height: 1;
-  margin: 2rem 0 3rem 0;
+  margin: 2rem auto 3rem auto;
+  max-width: 600px;
 }
 
 .intro-subheading {
@@ -93,6 +82,7 @@ export default {
   max-width: 700px;
   margin: 1rem auto;
   text-shadow: 0 0 10px $background;
+  line-height: 1.25;
 }
 
 .intro .intro-note {
@@ -128,7 +118,7 @@ export default {
 
 @media (min-width: 769px) {
   .intro {
-    padding: 3rem 5rem;
+    padding: 3rem 0;
 
     &-heading {
       font-size: 7rem;
