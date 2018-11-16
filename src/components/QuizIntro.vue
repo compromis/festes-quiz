@@ -2,20 +2,8 @@
   <section class="intro">
     <div class="container">
       <p><span class="intro-flair">QUIZ</span></p>
-      <div class="columns intro-icons">
-        <div class="column intro-icon-true is-hidden-mobile">
-          <True />
-        </div>
-        <div class="column">
-          <Newspaper />
-        </div>
-        <div class="column intro-icon-false is-hidden-mobile">
-          <False />
-        </div>
-      </div>
-      <h1 class="intro-heading">FAKE NEWS</h1>
-      <span class="intro-subheading-edition">Edició</span>
-      <h2 class="intro-subheading"><strong>Festes de València 🎉</strong></h2>
+      <h1 class="intro-heading"><span>FESTES VLC</span> FACTS 🎉</h1>
+      <h2 class="intro-subheading"><em>Troletes</em> o realitat?</h2>
       <p class="intro-description">Tens clara la gestió de la Regidoria de Cultura Festiva de l'Ajuntament de València o t'has deixat emportar per la voràgine de notícies absurdes sobre diverses qüestions? Possa't a prova i comprova tot el que s'ha gestionat en la darrera legislatura.</p>
       <p class="intro-action"><a href="#q1" v-scroll-to="'#q1'"><span class="emoji">📝</span> Comença</a></p>
     </div>
@@ -23,18 +11,8 @@
 </template>
 
 <script>
-import Newspaper from '../assets/newspaper.svg'
-import True from '../assets/true.svg'
-import False from '../assets/false.svg'
-
 export default {
-  name: 'quiz-intro',
-
-  components: {
-    Newspaper,
-    True,
-    False
-  }
+  name: 'quiz-intro'
 }
 </script>
 
@@ -42,7 +20,7 @@ export default {
 @import '../variables';
 
 .intro {
-  padding: 2.5rem;
+  padding: 2.5rem 1.5rem;
   text-align: center;
   background: $background;
   background: linear-gradient(rgba($background, .75) 0%, rgba($background, 0) 100%);;
@@ -50,40 +28,25 @@ export default {
 
 .intro-heading {
   font-family: $font-intro;
-  font-size: 5rem;
+  font-size: 17vw;
   position: relative;
   text-shadow: 10px 10px 0 $secondary-color;
   transform: skew(0deg, -10deg);
   line-height: 1;
-  margin: 2rem 0 3rem 0;
+  margin: 2rem auto 3rem auto;
+  max-width: 600px;
+  
+  span {
+    white-space: nowrap;
+  }
 }
 
 .intro-subheading {
-  text-align: center;
   line-height: 1;
-  margin-top: .75rem;
-  margin-bottom: 3rem;
-
-  strong {
-    background: #fff;
-    padding: .5rem .75rem;
-    border-radius: .5rem;
-    box-shadow: 0 0 20px rgba($background, .5);
-    color: $secondary-color;
-    white-space: nowrap;
-    font-size: 1.75rem;
-    letter-spacing: -1px;
-  }
-
-  &-edition {
-    display: inline-block;
-    background: $secondary-color;
-    color: #fff;
-    text-transform: uppercase;
-    padding: .25rem 2rem;
-    border-radius: .5rem .5rem 0 0;
-    font-weight: bold;
-  }
+  margin: 1rem 0;
+  font-size: 1.75rem;
+  letter-spacing: -1px;
+  text-shadow: 0 0 10px $background;
 }
 
 .intro-flair {
@@ -114,6 +77,7 @@ export default {
   max-width: 700px;
   margin: 1rem auto;
   text-shadow: 0 0 10px $background;
+  line-height: 1.25;
 }
 
 .intro .intro-note {
@@ -149,16 +113,14 @@ export default {
 
 @media (min-width: 769px) {
   .intro {
-    padding: 3rem 5rem;
+    padding: 3rem 0;
 
     &-heading {
       font-size: 7rem;
     }
 
     &-subheading {
-      strong {
-        font-size: 2.5rem;
-      }
+      font-size: 2.5rem;
     }
 
     p {

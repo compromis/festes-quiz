@@ -9,7 +9,7 @@
     <div class="top-header-band-title">
       <a href="#" @click.prevent="toggleArchive" class="quiz-archive-link">
         Quizzes
-        <span :class="{ 'chevron': true, 'chevron-open': archiveShown }">
+        <span :class="{ 'is-hidden-mobile chevron': true, 'chevron-open': archiveShown }">
           <Chevron />
         </span>
       </a>
@@ -82,7 +82,7 @@ export default {
 
 .top-header-brand {
   background: #fff;
-  padding: 0.5rem 1.5rem;
+  padding: 0.5rem 1rem;
   flex-shrink: 0;
 
   img {
