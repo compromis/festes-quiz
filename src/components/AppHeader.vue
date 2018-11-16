@@ -47,7 +47,7 @@ export default {
   data () {
     return {
       archiveShown: false,
-      tweet: 'QUIZ: Com de vulnerable ets a les Fake News?'
+      tweet: 'QUIZ: Festes VLC Facts 🎉 Posa\'t a prova!'
     }
   },
 

@@ -37,7 +37,7 @@ export default {
     },
 
     tweet: function () {
-      return 'He tret un ' + this.correctAnswers + ' de ' + this.totalQuestions + ' en el Quiz de Fake News de @compromis. Pots superar-me?'
+      return 'He tret un ' + this.correctAnswers + ' de ' + this.totalQuestions + ' en el Quiz Festes VLC Facts de @compromisVLC. Pots superar-me?'
     }
   }
 }
