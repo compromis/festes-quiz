@@ -114,14 +114,14 @@
         {
           "name": "Cert",
           "message": "Efectivament, per una bona raó.",
-          "points": 0,
+          "points": 1,
           "type": "true",
           "gif": "https://media.giphy.com/media/7zGKdVxez1wDFSurIo/giphy.gif"
         },
         {
           "name": "Incorrecte",
           "message": "Esta era difícil, però t'expliquem el motiu.",
-          "points": 1,
+          "points": 0,
           "type": "false",
           "gif": "https://media.giphy.com/media/xT9IgkwQph7Dwk3HZC/giphy.gif"
         }
@@ -150,7 +150,7 @@
     },
     {
       "id": 8,
-      "name": "Compromís ha rebaixat les subvencions a les ",
+      "name": "Compromís ha rebaixat les subvencions a les Falles",
       "message": "Agafa paper i llapis perquè anem a desmuntar un dels primer mites de la nostra etapa de govern que ara ja ningú es pot creure. Respecte a 2014 estem parlant d’un increment de més de 239.000 euros, un 13,3 per cent més, en ajudes per a les comissions falleres. No sols s’ha mantingut la subvenció del 25 % a la falla, el centre fonamental de la festa, sinó que, a més de la llum, les ajudes a les comissions s’han diversificat i s’han ampliat a un altre element que també és part important del patrimoni faller, com la música de banda i de tabal i dolçaina, o a la cooperació entre comissions per a afavorir la convivència en la celebració conjunta de Sant Joan. Unes mesures que es van acordar en una taula de diàleg amb una àmplia representació d’associacions i comissions falleres.",
       "options": [
         {
