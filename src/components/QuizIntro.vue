@@ -11,17 +11,8 @@
 </template>
 
 <script>
-import Newspaper from '../assets/newspaper.svg'
-import True from '../assets/true.svg'
-import False from '../assets/false.svg'
-
 export default {
-  name: 'quiz-intro',
-
-  components: {
-    True,
-    False
-  }
+  name: 'quiz-intro'
 }
 </script>
 
