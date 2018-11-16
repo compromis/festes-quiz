@@ -35,7 +35,7 @@ export default {
   line-height: 1;
   margin: 2rem auto 3rem auto;
   max-width: 600px;
-  
+
   span {
     white-space: nowrap;
   }

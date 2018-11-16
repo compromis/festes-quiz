@@ -1,4 +1,7 @@
 module.exports = {
+  baseUrl: process.env.NODE_ENV === 'production'
+    ? '/quiz/vlc/festes/'
+    : '/',
   chainWebpack: config => {
     const svgRule = config.module.rule('svg')
 
