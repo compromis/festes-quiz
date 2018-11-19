@@ -72,14 +72,14 @@
         {
           "name": "Clar que si",
           "message": "Molt bé! L’exposició del Ninot es va traslladar en 2016.",
-          "points": 0,
+          "points": 1,
           "type": "true",
           "gif": "https://media.giphy.com/media/3o6Zt7mutmbv76m0ko/giphy.gif"
         },
         {
           "name": "No m’ho crec",
           "message": "Encara penses això de: van a carregar-se la festa!!!",
-          "points": 1,
+          "points": 0,
           "type": "false",
           "gif": "https://media.giphy.com/media/l378zMz2Qd6MQ0iD6/giphy.gif"
         }
