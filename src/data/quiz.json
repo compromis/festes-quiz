@@ -4,17 +4,17 @@
     {
       "id": 1,
       "name": "Joan Ribó prohíbe lanzar caramelos en la Cabalgata de Reyes",
-      "message": "Encara que semble impossible, aixó es va publicar a la premsa. No sabem ben bé si la persona que va redactar la noticia tenia un trauma amb els caramels, però hem de dir que, no només ha sigut habitual el llançament de caramels a les cavalcades dels últims anys, sinó que s'han repartit sense gluten, a més de mandarines i altres productes saludables de la nostra terra. A més a més, s'han incorporat modernes carrosses, espectacles de llum i só i, per descomptat, pólvora a manta. El Govern de la Nau mai s'oblida dels més menuts.",
+      "message": "Encara que semble impossible, aixó es va publicar a la premsa. Però éls últims anys no només s’han distribuït quilos i quilos de caramels sense gluten, sinó també mandarines i altres productes saludables de la nostra terra. A més a més, s’ha apostat per revitalitzar amb força la Cavalcada incorporant modernes carrosses com l’Estrela de Nadal o la Bústia Reial, espectacles de llum i só i,  també un magnífic piromusical com a cloenda. El Govern de la Nau mai s'oblida dels més menuts en la nit més màgica de l’any.",
       "options": [
         {
-          "name": "Vertader",
+          "name": "Veritat!",
           "message": "No sigues Herodes, els xiquets no poden quedar-se sense caramels.",
           "points": 0,
           "type": "true",
           "gif": "https://media.giphy.com/media/NQL7Wuo2JSQSY/giphy.gif"
         },
         {
-          "name": "Vols dir?",
+          "name": "Troleta!",
           "message": "Evidentment, a ningú amb trellat se li pot ocórrer prohibir això.",
           "points": 1,
           "type": "false",
@@ -25,18 +25,18 @@
     {
       "id": 2,
       "name": "Aumenta por tercer año consecutivo el presupuesto para las mascletàs",
-      "message": "A pesar que les mascletades a la plaça de l'Ajuntament són un aparador per a la festa de les Falles, durant anys i anys, el pressupost que tenien les empreses pirotècniques era ridícul. Només 4.000.-€ per a uns muntatges, els costos dels quals, poden duplicar tranquil·lament eixa xifra. Ara, s'ha incrementat en 500.-€ cada any eixe pressupost per arribar a 5.500.-€. Un preu que s'ajusta més a la realitat i ha aconseguit un important augment de la qualitat de les disparades i dignificar el treball dels mestres de la pólvora.",
+      "message": "A pesar que les mascletades a la plaça de l'Ajuntament són un aparador per a la festa de les Falles, durant  molts anys, el pressupost era ridícul en comparació amb els costos que suposa per als pirotècnics valencians. Ara, s'han incrementat en 500.-€ cada any per disparada  per arribar a un preu que s'ajusta més a la realitat i s’ha aconseguit un important augment de la qualitat de les disparades i dignificar el treball dels mestres de la pólvora permetent que combinen tradició i modernitat. I no només en Falles. També a Nadal o a la Gran Fira de juliol.",
       "options": [
         {
-          "name": "Clar que sí",
+          "name": "Veritat!",
           "message": "Premi! I no digueu que no es nota...",
           "points": 1,
           "type": "true",
           "gif": "https://media.giphy.com/media/lp0u8fTUIMVkzSlJgK/giphy.gif"
         },
         {
-          "name": "Ni de conya",
-          "message": "Doncs sí, i falta que feia...",
+          "name": "Troleta!",
+          "message": "Clar que sí, i falta que feia...",
           "points": 0,
           "type": "false",
           "gif": "https://media.giphy.com/media/47KjwlPVpnQOs/giphy.gif"
@@ -46,18 +46,18 @@
     {
       "id": 3,
       "name": "Compromís vol acabar amb les celebracions del Cabanyal",
-      "message": "Al principi del mandat es va fer córrer el rumor que Compromís anava a posar fi a la Setmana Santa Marinera. Res més llunyà de la realitat, s'ha promocionat la SSM més que mai amb MUPIS explicatius, la reforma al seu museu i els tràmits per a la seua homologació oficial. A més en 2017, el regidor de cultura festiva Pere Fuset, va ser el pregoner amb un text que va connectar amb el sentiment de la gent que viu la festa marinera.",
+      "message": "Al principi del mandat es va fer córrer el rumor que Compromís anava a acabar amb la Setmana Santa Marinera. Res més llunyà de la realitat, s'ha promocionat la SSM més que mai amb MUPIS per la ciutat i campanyes a les xarxes, la reforma del Museu i les imatges;  i el treball per a la seua homologació oficial. A més en 2017, el regidor de cultura festiva Pere Fuset, fou el pregoner amb un text que va connectar amb el sentiment de la gent que viu la festa marinera. Ah! I s’està treballant per ampliar el conveni!",
       "options": [
         {
-          "name": "I tant!",
-          "message": "No tingues idees preconcebudes i coneix la festa.",
+          "name": "Veritat!",
+          "message": "No tingues prejudicis i coneix la festa.",
           "points": 0,
           "type": "true",
           "gif": "https://media.giphy.com/media/145HxsPPPgOSR2/giphy.gif"
         },
         {
-          "name": "No pot ser",
-          "message": "Clar que no pot ser!",
+          "name": "Troleta!",
+          "message": "Clar que és fals!",
           "points": 1,
           "type": "false",
           "gif": "https://media.giphy.com/media/l3q2XhfQ8oCkm1Ts4/giphy.gif"
@@ -67,18 +67,18 @@
     {
       "id": 4,
       "name": "El treball dels artistes fallers entra al Museu de les Ciències",
-      "message": "A compromís per València treballem per dignificar la cultura festiva de la nostra ciutat, per això traslladarem l’exposició del Ninot a un lloc millor habilitat com es el Museu de les Ciències. Al principi, els de sempre deien que era un error perquè era un lloc que estava molt mal comunicat però la realitat es que l’exposició del ninot ha acabat l’any 2018 amb record de visitants (vora 70.000 persones) i major visibilitat a un lloc amb major afluència turística.",
+      "message": "Treballem per dignificar la cultura festiva de la nostra ciutat, per això traslladarem l’Exposició del Ninot d’una carpa a un lloc millor habilitat com es el Museu de les Ciències. Al principi, els de sempre deien que era un error perquè era un lloc que estava molt mal comunicat però la realitat es que l’exposició del ninot ha acabat l’any 2018 amb record de visitants  i major visibilitat a un lloc amb major afluència turística.",
       "options": [
         {
-          "name": "Clar que si",
+          "name": "Veritat!",
           "message": "Molt bé! L’exposició del Ninot es va traslladar en 2016.",
           "points": 1,
           "type": "true",
           "gif": "https://media.giphy.com/media/3o6Zt7mutmbv76m0ko/giphy.gif"
         },
         {
-          "name": "No m’ho crec",
-          "message": "Encara penses això de: van a carregar-se la festa!!!",
+          "name": "Troleta!",
+          "message": "Encara penses això de “Si  vin i quirriguir-si lis fillis”??",
           "points": 0,
           "type": "false",
           "gif": "https://media.giphy.com/media/l378zMz2Qd6MQ0iD6/giphy.gif"
@@ -88,18 +88,18 @@
     {
       "id": 5,
       "name": "El Ayuntamiento de València quita los Belenes de Navidad",
-      "message": "La premsa sorprenia al novembre de 2015 amb la notícia que l'Alcalde de València, tenia series intencions de “apagar la Navidad” després de conèixer-se que el Betlem tradicional no seria instal·lat en la Plaça de l'Ajuntament. La realitat és la contrària, València compta no amb un, sinó amb dos betlems, un instal·lat a la plaça de la Reina i altre al Saló de Cristall de l'Ajuntament, d'accés lliure i èxit total de visitants. El compromís d'aquesta regidoria amb el Nadal es demostra igualment, amb la il·luminació i arbres de nadal als barris.",
+      "message": "La premsa sorprenia al novembre de 2015 amb la notícia que l'Alcalde de València, tenia series intencions de “apagar la Navidad” després de conèixer-se que el Betlem tradicional no seria instal·lat en la Plaça de l'Ajuntament. La realitat és la contrària, València compta no amb un, sinó amb dos betlems, un, restaurat i ampliat  a la plaça de la Reina i altre, artesanal i monumental, al Saló de Cristall de l'Ajuntament, d'accés lliure i èxit total de visitants. El compromís d'esta regidoria amb el Nadal es demostra igualment, amb la descentralització de la il.luminació, els arbres de nadal i les activitats que ara també arriben als barris.",
       "options": [
         {
-          "name": "Segur!",
-          "message": "De veres te creus això?",
+          "name": "Veritat!",
+          "message": "De veres t’has cregut això?",
           "points": 0,
           "type": "true",
           "gif": "https://media.giphy.com/media/KWhbSfPKYYaDrCB8Ou/giphy.gif"
         },
         {
-          "name": "Impossible",
-          "message": "Impossible del tot.",
+          "name": "Troleta!",
+          "message": "Troleta total",
           "points": 1,
           "type": "false",
           "gif": "https://media.giphy.com/media/g04k7iATsBHWC2q5LZ/giphy.gif"
@@ -109,17 +109,17 @@
     {
       "id": 6,
       "name": "Compromís también cambia el nombre de la Feria de Julio",
-      "message": "El que s'ha fet ha sigut recuperar la denominació històrica que va tindre en la seua primera edició de 1871. A més a més, s'ha promocionat la Fira en tots els barris de la ciutat amb més de 200 acres en 85 punts diferents per a convertir-la en un gran festival urbà variat i descentralitzat.",
+      "message": "Encara que la coneixem com a “fira de Juliol” el nom oficial que figura als cartells (molt amagats en èpoques anteriors)  sempre ha sigut “Fira de València”. Des de 2016 es va recuperar – això sí - el “GRAN” de la denominació amb què va nàixer en 1871,  perdut en temps no massa llunyans. El que sí ha canviat és el concepte ja que s'ha descentralitzat la Fira pels barris de la ciutat amb més de 250 activitats en 85 punts diferents i s’ha diversificat l’oferta  per a convertir-la en un gran festival urbà. Una festa d’estiu per a totes i tots!",
       "options": [
         {
-          "name": "Cert",
-          "message": "Efectivament, per una bona raó.",
+          "name": "Veritat!",
+          "message": "Esta era molt difícil!",
           "points": 1,
           "type": "true",
           "gif": "https://media.giphy.com/media/7zGKdVxez1wDFSurIo/giphy.gif"
         },
         {
-          "name": "Incorrecte",
+          "name": "Troleta!",
           "message": "Esta era difícil, però t'expliquem el motiu.",
           "points": 0,
           "type": "false",
@@ -133,14 +133,14 @@
       "message": "Va ser en 2013/2014 quan els gegants del Corpus no van eixir en la processó, però llavors encara no governava Compromís. De fet, ara no sols ixen amb tota normalitat, sinó que a més la imatgeria festiva de la ciutat de València s’ha ampliat amb noves figures com els gegants Nelet i Quiqueta de la Gran Fira, el ratpenat Valentí per al Correfoc o la comparsa de cabuts de la ciutat, que recrea destacats hòmens i dones de la cultura valenciana que desfilen en la Cavalcada de Reis i en la del Patrimoni.",
       "options": [
         {
-          "name": "Vertader",
-          "message": "Més que gegant sembles un nano!",
+          "name": "Veritat!",
+          "message": "Més que gegant sembles un cabut!",
           "points": 0,
           "type": "true",
           "gif": "https://media.giphy.com/media/3cA4sh9SznEEU/giphy.gif"
         },
         {
-          "name": "Com qué no?",
+          "name": "Troleta!",
           "message": "I tant que ixen!",
           "points": 1,
           "type": "false",
@@ -151,17 +151,17 @@
     {
       "id": 8,
       "name": "Compromís ha rebaixat les subvencions a les Falles",
-      "message": "Agafa paper i llapis perquè anem a desmuntar un dels primer mites de la nostra etapa de govern que ara ja ningú es pot creure. Respecte a 2014 estem parlant d’un increment de més de 239.000 euros, un 13,3 per cent més, en ajudes per a les comissions falleres. No sols s’ha mantingut la subvenció del 25 % a la falla, el centre fonamental de la festa, sinó que, a més de la llum, les ajudes a les comissions s’han diversificat i s’han ampliat a un altre element que també és part important del patrimoni faller, com la música de banda i de tabal i dolçaina, o a la cooperació entre comissions per a afavorir la convivència en la celebració conjunta de Sant Joan. Unes mesures que es van acordar en una taula de diàleg amb una àmplia representació d’associacions i comissions falleres.",
+      "message": "Anem a desmuntar un dels primers mites de la nostra etapa de govern que ara ja ningú es pot creure. Respecte al període 2014-2017 estem parlant d’un increment de més de 239.000 euros, un 13,3% més, en ajudes per a les comissions falleres. No sols s’ha mantingut la subvenció del 25 % a la falla - centre fonamental de la festa - sinó que, a més de la llum i  els aniversaris, les ajudes s’han incrementat i diversificat incloent un element que també és part important del patrimoni faller, com la música de banda i de tabal i dolçaina; o a la cooperació per a afavorir la convivència en la celebració conjunta de Sant Joan , ajudes per complir amb la Memòria Històrica i fins i tot un programa pilot per a insonoritzacions de casals. Unes mesures acordades en una taula de diàleg amb una àmplia representació d’associacions i comissions falleres.",
       "options": [
         {
-          "name": "Of course!",
-          "message": "Hauràs de repasar els comptes.",
+          "name": "Veritat!",
+          "message": "Hauràs de repassar els comptes.",
           "points": 0,
           "type": "true",
           "gif": "https://media.giphy.com/media/3o7btObApReFdPILwk/giphy.gif"
         },
         {
-          "name": "No pot ser",
+          "name": "Troleta!",
           "message": "Evident! Tens els números molt clars.",
           "points": 1,
           "type": "false",
@@ -172,17 +172,17 @@
     {
       "id": 9,
       "name": "Les Falles ja tenen un Museu reconegut oficialment",
-      "message": "A pesar de la complicació quant a burocràcia i informes per a homologar el museu, en tan sols sis mesos es va reunir tota la documentació i fou finalment aprovada l'homologació el 18 de maig de 2016, Dia Internacional dels Museus. Hui en dia és el museu municipal més visitat. A més a més, en 2017 es va escometre una reforma important del Museu del Corpus-Casa de les Roques i en 2018 una altra similar en el Museu de la Setmana Santa Marinera, en ambdós casos es va fer una forta inversió en tecnologia audiovisual puntera i en uns audiovisuals de gran qualitat plàstica i explicativa.",
+      "message": "A pesar de la complicació quant a burocràcia i informes per a homologar el museu, en tan sols sis mesos es va reunir tota la documentació i fou finalment aprovada l'homologació el 18 de maig de 2016, Dia Internacional dels Museus. Hui en dia és el museu municipal més visitat. A més a més, en 2017 es va escometre una reforma important del Museu del Corpus-Casa de les Roques i en 2018 una altra similar en el Museu de la Setmana Santa Marinera, en ambdós casos es va fer una forta inversió en tecnologia audiovisual puntera i en uns audiovisuals de gran qualitat plàstica i explicativa. També estos dos museus porten camí de ser reconeguts oficialment com a tals!",
       "options": [
         {
-          "name": "Clar que sí",
+          "name": "Veritat!",
           "message": "Per suposat que si, des de 2016!",
           "points": 1,
           "type": "true",
           "gif": "https://media.giphy.com/media/3o6ZsUTBmr90VL3c2s/giphy.gif"
         },
         {
-          "name": "Impossible",
+          "name": "Troleta!",
           "message": "I tant que és possible.",
           "points": 0,
           "type": "false",
@@ -193,18 +193,18 @@
     {
       "id": 10,
       "name": "Les mascletades seran d'accés restringit",
-      "message": "Un dels “fakes” més increibles que s'han pogut llegir. La premsa sorprenía fa uns mesos amb este titolar més llunyà de la realitat impossible. En canvi, el que s¡ha fet és obrir el balcó de l'Ajuntament per a qué totes les comissions falleres i resta de la ciutadanía puga gaudir de l'espectacle en un lloc privilegiat. Un fet que no s'havia produït mai, ja que en altres temps, les invitacions funcionaven d'altra manera...",
+      "message": "Un dels “fakes” més increibles que s'han pogut llegir. La premsa sorprenía fa uns mesos amb este titolar més llunyà de la realitat impossible. En canvi, el que sha fet – a banda de mimar més als pirotènics valencians -  és obrir el balcó de l'Ajuntament per a qué totes les comissions falleres i la resta de la ciutadanía opte a gaudir de l'espectacle en un lloc privilegiat. Un fet que no s'havia produït mai, ja que en altres temps, les invitacions funcionaven... d'altra manera...",
       "options": [
         {
-          "name": "Són capaços",
+          "name": "Veritat!",
           "message": "Tens la pòlvora banyada.",
           "points": 0,
           "type": "true",
           "gif": "https://media.giphy.com/media/3orieTzDosBfu42Jj2/giphy.gif"
         },
         {
-          "name": "Si home!",
-          "message": "Clar que no!",
+          "name": "Troleta!",
+          "message": "Peim! Clar que no!",
           "points": 1,
           "type": "false",
           "gif": "https://media.giphy.com/media/Bome6Zfl2jPmfAgVnT/giphy.gif"
@@ -214,18 +214,18 @@
     {
       "id": 11,
       "name": "La plaza del Ayuntamiento acoge una fiesta de Nochevieja",
-      "message": "Un esdeveniment espectacular que, malgrat les primeres reticències amb els permisos per disparar espectacles pirotècnics, ha esdevingut en tot un referent per a una nit tan festiva com la de cap d'any. On abans no hi havia res, la regidoria de Cultura Festiva ha aconsseguit reforçar l'oferta d'oci de la ciutat amb possibilitats per a tothom ja que és de lliure accés. L'elevada participació any rere any és garantia d'èxit per al futur.",
+      "message": "Un esdeveniment espectacular que, malgrat les primeres barreres del PP amb els permisos per disparar pirotècnia, ha esdevingut una novetat convertida  en tot un referent per a una nit tan festiva com la de Cap d'Any. On abans no hi havia res, la regidoria de Cultura Festiva ha aconseguit reforçar l'oferta d'oci de la ciutat apostant per Dj’s valencians i amb possibilitats per a tots els públics  ja que és de lliure accés. L'elevada participació any rere any és garantia d'èxit per al futur!",
       "options": [
         {
-          "name": "Yesssss",
-          "message": "I cada any millora!!!",
+          "name": "Veritat!",
+          "message": "I cada any més festa!!!",
           "points": 1,
           "type": "true",
           "gif": "https://media.giphy.com/media/l46CvRFB1GqPYAOis/giphy.gif"
         },
         {
-          "name": "Fake total",
-          "message": "Quina persona més avorrida eres.",
+          "name": "Troleta!",
+          "message": "No saps la que t’estàs perdent!",
           "points": 0,
           "type": "false",
           "gif": "https://media.giphy.com/media/2c85mixajmMxcwLYs/giphy.gif"
@@ -235,18 +235,18 @@
     {
       "id": 12,
       "name": "Compromís despolitiza el Jurado de las Fallas Municipales",
-      "message": "Una de les coses importants que s'han modificat en temes fallers és l'elecció de les Falles Municipals. Diferents professionals de tots els àmbits artístics decideixen quina és la millor proposta per a uns monuments que son referents de la festa en tota la ciutat. Les Falles Municipals són les de totes i tots, i el seu disseny i realització ha d'estar avalat pels millors en els seus camps.",
+      "message": "Una altra de les coses importants que s'han modificat en temes fallers és l'elecció de les Falles Municipals. Si abans eren els polítics del PP qui triaven a dit amb la seua majoria ara són professionals de tots els àmbits artístics - proposats per col·lectius fallers i de l’art - qui decideixen quina és la millor proposta per a unes falles municipals que tenen unes noves bases consensuades  i respectuoses amb el treball dels artistes, amb major dotació econòmica i una aposta clara per materials més sostenibles. Les Falles són art, com la poesia o la pintura i no un capritx polític!",
       "options": [
         {
-          "name": "Ja tocava!",
-          "message": "Efectivament, tocava.",
+          "name": "Veritat!",
+          "message": "Efectivament, ja tocava.",
           "points": 1,
           "type": "true",
           "gif": "https://media.giphy.com/media/26wkBtyOi2E7HDVv2/giphy.gif"
         },
         {
-          "name": "Impossible",
-          "message": "Sí és possible sí, afortunadament...",
+          "name": "Troleta!",
+          "message": "Sí era possible, sí, afortunadament.",
           "points": 0,
           "type": "false",
           "gif": "https://media.giphy.com/media/9XXBywtEWmkiA/giphy.gif"
@@ -256,17 +256,17 @@
     {
       "id": 13,
       "name": "L'Ajuntament imposa el Ban de Falles sense consultar els agents implicats",
-      "message": "El ban de Falles és el document que l’Ajuntament publica anualment en el que inclou tot allò relatiu a la reglamentació i convivència durant la festa de les Falles. Fins el govern de Compromís, el ban s’emetia sense consultar els agents implicats. Ha sigut en este mandat i no abans quan s’ha consultat amb els principals agents implicats. De fet, existeix una sèrie de reunions de consulta amb entitats falleres, veïnals, de comerciants, consumidors i consumidores i d’empresaris i empresàries. Totes estes entitats presenten les seues propostes concretes en temes com ara les dates d’instal·lació de mercadets i envetlats, mesures de gestió de residus, convivència ciutadana i mobilitat. Amb totes les seues propostes, l’equip del govern valora la idoneïtat de les mateixes i, junt als criteris tècnics, elabora la redacció del ban que després servirà de base per a la gestió de la ciutat durant la setmana fallera.",
+      "message": "El ban de Falles és el document que l’Ajuntament publica  cada any per incloure tot allò relatiu a la reglamentació i convivència durant la festa de les Falles. Fins el govern de Compromís, este s’emetia sense consultar els agents implicats. Ha sigut en este mandat i no abans quan s’ha obert al diàleg. De fet, la participació s’ha canalitzat no només amb una ronda de consultes amb entitats falleres, veïnals, de comerciants, i entitats de consumi i empresarials. Enguany també s’ha constituït una Mesa de Diàleg que ha arribat a importants acords per millorar la convivència, la seguretat i la imatge i neteja de la ciutat. Amb estes propostes, l’equip del govern - junt als criteris tècnics - elabora la redacció del ban que després servirà de base per a la gestió de la ciutat durant la setmana fallera.",
       "options": [
         {
-          "name": "Vertader",
-          "message": "Res més lluny de la realitat.",
+          "name": "Veritat!",
+          "message": "Res més lluny de la realitat",
           "points": 0,
           "type": "true",
           "gif": "https://media.giphy.com/media/tYelSVzQPtLdm/giphy.gif"
         },
         {
-          "name": "Fals",
+          "name": "Troleta!",
           "message": "En efecte, és fals",
           "points": 1,
           "type": "false",
@@ -277,21 +277,42 @@
     {
       "id": 14,
       "name": "Les Falles ja no poden ballar en la Dansà a la Mare de Déu",
-      "message": "Fins l’any 2017, de més de 200 parelles que ballaven en la dansà a la Mare de Déu, només 9 eres de comissions falleres. Després de la dansà de 2016, una sèrie de reunions mantingudes amb els participants històrics de la dansà serviren per replantejar el model de la dansà. Fins eixe moment, existien dos dansaes (una infantil per la vesprada i una d’adults per la nit). Amb l’acord dels grups participants, es va buscar un model que multiplicava a quatre les sessions de la dansà. En eixe format, una sessió es va dedicar únicament i exclusivament als grups de ball de les comissions falleres. Així, en 2017 participaren un total de 173 grups de balls de comissions falleres, i en 2018 el número augmentà a 240 parelles. Per tant, en este mandat s’ha multiplicat un 2600% la participació de les comissions falleres en la dansà.",
+      "message": "Fins l’any 2017, de més de 200 parelles que ballaven en la dansà a la Mare de Déu, només 9 eres de comissions falleres. Després de la dansà de 2016, el diàleg amb els participants històrics de la dansà va servir per replantejar el model de la dansà. Fins eixe moment, existien dos dansaes (una infantil per la vesprada i una d’adults per la nit). Amb l’acord dels grups participants, es multiplicar a  quatre les sessions de la dansà. En eixe format, una sessió es va dedicar únicament i exclusivament als grups de ball de les comissions falleres. Així, en 2017 participaren un total de 173 grups de balls de comissions falleres, i en 2018 el número augmentà a 240 parelles. Per tant, en este mandat s’ha multiplicat un 2600% la participació de les comissions falleres en la dansà.",
       "options": [
         {
-          "name": "No, ja no poden",
-          "message": "No et cregues tot el que diuen per ahí.",
+          "name": "Veritat!",
+          "message": "No et cregues tot el que diuen per ahí",
           "points": 0,
           "type": "true",
           "gif": "https://media.giphy.com/media/3oeSAXCqOrDqoYlwqs/giphy.gif"
         },
         {
-          "name": "Sí, sí que poden",
-          "message": "En efecte, sí que poden ballar.",
+          "name": "Troleta!",
+          "message": "En efecte, ara sí que poden ballar",
           "points": 1,
           "type": "false",
           "gif": "https://media.giphy.com/media/29JM2v753GbY8SG9QG/giphy.gif"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Les Falles ja no poden ballar en la Dansà a la Mare de Déu",
+      "message": "El que no passaria d’una innocentada, a través de fake news es va rebotar com a cert, i mai més lluny de la realitat. Des de l’Ajuntament s’ha col·laborat activament no sols durant el dia 9 d’octubre si no també en els diferents actes que les federacions de moros i cristians de la ciutat organitzen al llarg de tot l’any. A més, s’ha augmentat la dotació econòmica dels convenis de col·laboració, s’ha fet un nou cartell oficial sufragat per l’Ajuntament i s’ha reforçat el suport logístic i institucional a les diferents agrupacions de moros i cristians. I és que les Festes de Moros i cristians han vingut per a quedar-se.",
+      "options": [
+        {
+          "name": "Veritat!",
+          "message": "No és veritat. Mai des l’ajuntament s’ha pensat en suspendre-ho.",
+          "points": 0,
+          "type": "true",
+          "gif": "https://media.giphy.com/media/3oeSAXCqOrDqoYlwqs/giphy.gif"
+        },
+        {
+          "name": "Troleta!",
+          "message": "Efectivament es fals!!!",
+          "points": 1,
+          "type": "false",
+          "gif": "https://media.giphy.com/media/1fm9a68tbJPVGmeidp/giphy.gif"
         }
       ]
     }
