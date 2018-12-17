@@ -109,19 +109,19 @@
     {
       "id": 6,
       "name": "Compromís también cambia el nombre de la Feria de Julio",
-      "message": "Encara que la coneixem com a “fira de Juliol” el nom oficial que figura als cartells (molt amagats en èpoques anteriors)  sempre ha sigut “Fira de València”. Des de 2016 es va recuperar – això sí - el “GRAN” de la denominació amb què va nàixer en 1871,  perdut en temps no massa llunyans. El que sí ha canviat és el concepte ja que s'ha descentralitzat la Fira pels barris de la ciutat amb més de 250 activitats en 85 punts diferents i s’ha diversificat l’oferta  per a convertir-la en un gran festival urbà. Una festa d’estiu per a totes i tots!",
+      "message": "Encara que la coneixem com a “fira de Juliol” el nom oficial que figura als cartells (molt amagats en èpoques anteriors) sempre ha sigut “Fira de València”. Des de 2016 es va recuperar – això sí - el “GRAN” de la denominació amb què va nàixer en 1871, perdut en temps no massa llunyans. El que sí ha canviat és el concepte ja que s'ha descentralitzat la Fira pels barris de la ciutat amb més de 250 activitats en 85 punts diferents i s’ha diversificat l’oferta  per a convertir-la en un gran festival urbà. Una festa d’estiu per a totes i tots!",
       "options": [
         {
           "name": "Veritat!",
           "message": "Esta era molt difícil!",
-          "points": 1,
+          "points": 0,
           "type": "true",
           "gif": "https://media.giphy.com/media/7zGKdVxez1wDFSurIo/giphy.gif"
         },
         {
           "name": "Troleta!",
           "message": "Esta era difícil, però t'expliquem el motiu.",
-          "points": 0,
+          "points": 1,
           "type": "false",
           "gif": "https://media.giphy.com/media/xT9IgkwQph7Dwk3HZC/giphy.gif"
         }
@@ -305,7 +305,7 @@
           "message": "No és veritat. Mai des l’ajuntament s’ha pensat en suspendre-ho.",
           "points": 0,
           "type": "true",
-          "gif": "https://media.giphy.com/media/3oeSAXCqOrDqoYlwqs/giphy.gif"
+          "gif": "https://media.giphy.com/media/ukQqSt6wnQdJ8EajIX/giphy.gif"
         },
         {
           "name": "Troleta!",
