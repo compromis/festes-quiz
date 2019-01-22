@@ -47,17 +47,25 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: $text-color;
-  background-image: url(./assets/background.jpg);
-  background-color: $background;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
   font-size: 100%;
 }
 
 body {
   padding-top: 50px;
+
+  &::after {
+    content: '';
+    position: fixed;
+    top: 0;
+    height: 100vh;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    background-image: url(./assets/background.jpg);
+    background-position: center;
+    background-size: cover;
+    background-color: $background;
+  }
 }
 
 @font-face {

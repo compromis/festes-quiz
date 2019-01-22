@@ -28,7 +28,7 @@ export default {
 
 .intro-heading {
   font-family: $font-intro;
-  font-size: 17vw;
+  font-size: 13vw;
   position: relative;
   text-shadow: 10px 10px 0 $secondary-color;
   transform: skew(0deg, -10deg);
